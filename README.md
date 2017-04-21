@@ -22,5 +22,5 @@ The following figure illustrates an example our LLVM-based dependence analysis t
 
 ## Sample Data-oriented Attack in the SyringePump application
 
-<img src="https://github.com/dummyForSubmission/eFSA/blob/master/figures/SyringeBufferOverflow.png" height="500" width="600">
+<img src="https://github.com/dummyForSubmission/eFSA/blob/master/figures/SyringeBufferOverflow.png" height="400" width="400">
 
